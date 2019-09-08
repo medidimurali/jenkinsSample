@@ -5,6 +5,7 @@
     <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
     <UserSecretsId>f88e3ae7-f4c7-456b-8bbe-9db0ce99740a</UserSecretsId>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+<GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles> 
 	<IsPackable>true</IsPackable>
   </PropertyGroup>
 
